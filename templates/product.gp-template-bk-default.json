@@ -8,81 +8,30 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "main",
-    "related-products"
-  ],
   "sections": {
-    "main": {
-      "block_order": [
-        "vendor",
-        "title",
-        "badges",
-        "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
-      ],
-      "blocks": {
-        "badges": {
-          "settings": {},
-          "type": "badges"
-        },
-        "buy_buttons": {
-          "settings": {},
-          "type": "buy_buttons"
-        },
-        "description": {
-          "settings": {},
-          "type": "description"
-        },
-        "payment_terms": {
-          "settings": {},
-          "type": "payment_terms"
-        },
-        "pickup_availability": {
-          "settings": {},
-          "type": "pickup_availability"
-        },
-        "price": {
-          "settings": {},
-          "type": "price"
-        },
-        "quantity_selector": {
-          "settings": {},
-          "type": "quantity_selector"
-        },
-        "rating": {
-          "settings": {},
-          "type": "rating"
-        },
-        "separator": {
-          "settings": {},
-          "type": "separator"
-        },
-        "title": {
-          "settings": {},
-          "type": "title"
-        },
-        "variant_picker": {
-          "settings": {},
-          "type": "variant_picker"
-        },
-        "vendor": {
-          "settings": {},
-          "type": "vendor"
-        }
+    "gp_shopify_original_section_583257514779345752": {
+      "settings": {
+        "checksum": "",
+        "section_preload": "true"
       },
-      "settings": {},
-      "type": "main-product"
+      "type": "gp-section-583257514779345752"
     },
-    "related-products": {
-      "settings": {},
-      "type": "related-products"
+    "gp_shopify_original_section_583257647185134553": {
+      "settings": {
+        "checksum": ""
+      },
+      "type": "gp-section-583257647185134553"
+    },
+    "gp_shopify_original_section_583258219204314073": {
+      "settings": {
+        "checksum": ""
+      },
+      "type": "gp-section-583258219204314073"
     }
-  }
+  },
+  "order": [
+    "gp_shopify_original_section_583257514779345752",
+    "gp_shopify_original_section_583257647185134553",
+    "gp_shopify_original_section_583258219204314073"
+  ]
 }
