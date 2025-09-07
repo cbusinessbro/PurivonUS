@@ -24,14 +24,22 @@
         "message_RAeqNn": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
+            "url": ""
+          }
+        },
+        "message_RaraeA": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_RAeqNn"
+        "message_RAeqNn",
+        "message_RaraeA"
       ],
       "settings": {
         "enable_sticky": false,
