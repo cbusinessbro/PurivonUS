@@ -31,7 +31,7 @@
     },
     "gp_section_583433928749089432": {
       "settings": {
-        "checksum": "60007df8d3c725c6b67d9490196cf51565382152d1077e35932efdd8569d4f1f_1_1_1_0_"
+        "checksum": "91bb5d98872ecc1b5deb4327c8f9d7a8955d04d693f221abacc0bda82da7795e_1_1_1_0_"
       },
       "type": "gp-section-583433928749089432"
     },
@@ -52,8 +52,8 @@
     "gp_section_583433927742456793",
     "gp_section_583433929889940441",
     "gp_section_583433930242261656",
-    "gp_global_section_583542503106413379-1",
     "gp_section_583433928749089432",
+    "gp_global_section_583542503106413379-1",
     "gp_section_583433928363213785"
   ],
   "layout": "theme.gempages.blank"
