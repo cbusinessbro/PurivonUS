@@ -336,6 +336,15 @@
         "ggdEj9kZJxS_text": "<p>Clinically Proven</p>"
       }
     },
+    "gp_global_section_583570426936951636_4hXzBE": {
+      "type": "gp-global-section-583570426936951636",
+      "name": "scrolling review",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "gg6IKE4xQR3_text": "3,000+ Happy Women"
+      }
+    },
     "rich_text_g78B4n": {
       "type": "rich-text",
       "blocks": {
@@ -352,6 +361,7 @@
       "block_order": [
         "heading_Un9rwm"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -506,6 +516,7 @@
     "media_with_text_yqMJex",
     "media_with_text_LUHy6p",
     "gp_global_section_583548022894363459_Lw7YiM",
+    "gp_global_section_583570426936951636_4hXzBE",
     "rich_text_g78B4n",
     "testimonials_JNgYfQ",
     "gp_global_section_583548112300147540_Kh8nG3",
