@@ -333,6 +333,37 @@
         "spacing": "none"
       }
     },
+    "gp_global_section_583548022894363459_Lw7YiM": {
+      "type": "gp-global-section-583548022894363459",
+      "name": "Tabs VS",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "ggMrf6mjCjL_text": "<p>What Makes The Pelvina™ Special?</p>",
+        "ggVIXT8Mksz_text": "The Pelvina™ Strengthens Your Pelvic Floor",
+        "ggRl_TOODMe_text": "<p>Pelvina</p>",
+        "ggugnL42Ba8_text": "<p>Medication</p>",
+        "ggApusGmota_text": "<p>Inserts</p>",
+        "ggZ54_myB7F_text": "<p>Guided Strengthening</p>",
+        "gg-zol2KKTR_text": "<p>Non-Invasive Solution</p>",
+        "ggEFYG32ysL_text": "<p>Heat Therapy Boost</p>",
+        "ggJRbuBHJJ6_text": "<p>No Side Effects</p>",
+        "ggv4VvX276U_text": "<p>Cost-Effective Solution</p>",
+        "gg2-IIXrqsW_text": "<p>Portable &amp; Discreet</p>",
+        "ggdEj9kZJxS_text": "<p>Clinically Proven</p>"
+      }
+    },
+    "gp_global_section_583548112300147540_Kh8nG3": {
+      "type": "gp-global-section-583548112300147540",
+      "disabled": true,
+      "name": "recommended expert",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "ggNwwK3Bt58_text": "Endorsed &amp; Recommended by Pelvic Health Experts",
+        "gg_M7uSJo4b_text": "<p>Dr. Evelyn Williams and Sarah Mitchell, renowned pelvic health specialists, have assessed and endorsed the Pelvina™.</p><p> </p><p>They highlight its ability to <strong>strengthen the pelvic floor, improve bowel movements, and reduce leaks</strong>—without surgery or medication.</p><p> </p><p>With years of experience in helping women with prolapse, they praise Pelvina™ for its <strong>unique combination of heat therapy and muscle stimulation</strong>.</p><p> </p><p>This allows women to rebuild strength and confidence— <strong>right from home</strong>.</p>"
+      }
+    },
     "text_with_icons_MPxmfa": {
       "type": "text-with-icons",
       "blocks": {
@@ -403,6 +434,8 @@
     "rich_text_g78B4n",
     "testimonials_JNgYfQ",
     "media_with_text_yqMJex",
+    "gp_global_section_583548022894363459_Lw7YiM",
+    "gp_global_section_583548112300147540_Kh8nG3",
     "text_with_icons_MPxmfa"
   ]
 }
