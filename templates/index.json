@@ -211,6 +211,98 @@
         "heading_gradient": ""
       }
     },
+    "image_link_blocks_y33een": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_it7nMT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-fd8ccc7b-2f33-42a6-84a0-c1d9f7768f36.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fXgHDJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-a187e34c-12c5-4a5f-85a7-668d61912293.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_KN84WR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-a0749692-bd92-4815-b26a-b3a648133015.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_P4ymRP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-b49e87a4-fe9f-4a9c-b4d9-42b7c058b360.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ReVQTP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-e696accf-d6ae-4ea7-89fa-6060b05c4578.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_it7nMT",
+        "item_fXgHDJ",
+        "item_KN84WR",
+        "item_P4ymRP",
+        "item_ReVQTP"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "gp_global_section_583570503877264195_7zx8jD": {
       "type": "gp-global-section-583570503877264195",
       "name": "HEADING BENEFIT",
@@ -507,6 +599,7 @@
     "media_with_text_LUHy6p",
     "gp_global_section_583548022894363459_Lw7YiM",
     "rich_text_g78B4n",
+    "image_link_blocks_y33een",
     "testimonials_JNgYfQ",
     "gp_global_section_583548112300147540_Kh8nG3",
     "text_with_icons_MPxmfa"
