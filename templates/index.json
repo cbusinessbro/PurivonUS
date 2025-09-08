@@ -239,6 +239,7 @@
       "block_order": [
         "image_THDp46"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -274,6 +275,7 @@
       "block_order": [
         "image_6FMqRb"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
