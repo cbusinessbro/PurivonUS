@@ -16,12 +16,6 @@
       },
       "type": "gp-section-583433927742456793"
     },
-    "gp_section_583433928329658993": {
-      "settings": {
-        "checksum": "b6165325267ef5074bd0f0ca6b34d2e9a6c587b4efe850f1c22e0ca0cc0207c6_1_1_1_0_"
-      },
-      "type": "gp-section-583433928329658993"
-    },
     "gp_section_583433928363213785": {
       "settings": {
         "checksum": "01336c7ae7e226e83f42f038d9e077f808ef3d836bcca4b0bd2ac7913d5d2d16_1_1_1_0_"
@@ -36,7 +30,7 @@
     },
     "gp_section_583433929889940441": {
       "settings": {
-        "checksum": "65c1302b7a67187fcc270ee9b47793ab2c14dde08a47dbea6e8566489cfe112e_1_1_1_0_"
+        "checksum": "25ee6b6d1b9a47951faa248389a6073a159352ce5e03fc687363ac8fe9e61324_1_1_1_0_"
       },
       "type": "gp-section-583433929889940441"
     },
@@ -52,7 +46,6 @@
     "gp_section_583433929889940441",
     "gp_section_583433930242261656",
     "gp_section_583433928749089432",
-    "gp_section_583433928329658993",
     "gp_section_583433928363213785"
   ],
   "layout": "theme.gempages.blank"
