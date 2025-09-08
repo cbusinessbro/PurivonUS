@@ -220,6 +220,30 @@
         "ggbE6USWf6c_text": "Why do you need the Pelvina™?"
       }
     },
+    "gp_global_section_583570993939743463_wPjc6y": {
+      "type": "gp-global-section-583570993939743463",
+      "name": "SECTION BENEFIT 1",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "ggMqdCv3WNU_text": "Stop Pelvic Pressure",
+        "ggcTe5Mvn12_text": "<p>Ease that heavy, dragging sensation.</p>",
+        "gg6VZK4Yfae_text": "Guided Kegels",
+        "ggPx4U8T3zX_text": "<p>Just sit and follow our contraction guide.</p>"
+      }
+    },
+    "gp_global_section_583571033802408519_NxNTaN": {
+      "type": "gp-global-section-583571033802408519",
+      "name": "SECTION BENEFIT2",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "gg0XrmAq6cr_text": "Clinically Proven",
+        "ggnhM8fAXnW_text": "<p>Heat therapy &amp; muscle activation to rebuild.</p>",
+        "ggQPWaj11VU_text": "Lasting Solution",
+        "gghvgNuQ50C_text": "<p>Strengthens the muscles that control urination.</p>"
+      }
+    },
     "media_with_text_yqMJex": {
       "type": "media-with-text",
       "blocks": {
@@ -477,6 +501,8 @@
     "rich_text_7hbM3y",
     "image_link_blocks_gEnttB",
     "gp_global_section_583570503877264195_7zx8jD",
+    "gp_global_section_583570993939743463_wPjc6y",
+    "gp_global_section_583571033802408519_NxNTaN",
     "media_with_text_yqMJex",
     "media_with_text_LUHy6p",
     "gp_global_section_583548022894363459_Lw7YiM",
