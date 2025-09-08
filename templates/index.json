@@ -211,6 +211,15 @@
         "heading_gradient": ""
       }
     },
+    "gp_global_section_583570503877264195_7zx8jD": {
+      "type": "gp-global-section-583570503877264195",
+      "name": "HEADING BENEFIT",
+      "settings": {
+        "section_preload": "off_lazy_script",
+        "checksum": "",
+        "ggbE6USWf6c_text": "Why do you need the Pelvina™?"
+      }
+    },
     "media_with_text_yqMJex": {
       "type": "media-with-text",
       "blocks": {
@@ -467,6 +476,7 @@
     "slideshow_imxcpg",
     "rich_text_7hbM3y",
     "image_link_blocks_gEnttB",
+    "gp_global_section_583570503877264195_7zx8jD",
     "media_with_text_yqMJex",
     "media_with_text_LUHy6p",
     "gp_global_section_583548022894363459_Lw7YiM",
