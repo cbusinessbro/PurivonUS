@@ -9,6 +9,13 @@
  */
 {
   "sections": {
+    "gp_shopify_original_global_section_583542503106413379-1": {
+      "settings": {
+        "checksum": "",
+        "section_preload": "false"
+      },
+      "type": "gp-global-section-583542503106413379"
+    },
     "gp_shopify_original_section_583257514779345752": {
       "settings": {
         "checksum": "",
@@ -69,12 +76,6 @@
         "checksum": ""
       },
       "type": "gp-section-583408508800599001"
-    },
-    "gp_shopify_original_section_583425888738083480": {
-      "settings": {
-        "checksum": ""
-      },
-      "type": "gp-section-583425888738083480"
     },
     "gp_shopify_original_section_583426889650012824": {
       "settings": {
@@ -158,6 +159,6 @@
     "gp_shopify_original_section_583497491849151192",
     "gp_shopify_original_section_583491556539892554",
     "gp_shopify_original_section_583401818080412633",
-    "gp_shopify_original_section_583425888738083480"
+    "gp_shopify_original_global_section_583542503106413379-1"
   ]
 }
