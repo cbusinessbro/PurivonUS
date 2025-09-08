@@ -9,13 +9,6 @@
  */
 {
   "sections": {
-    "gp_global_section_583542503106413379-1": {
-      "settings": {
-        "checksum": "",
-        "section_preload": "false"
-      },
-      "type": "gp-global-section-583542503106413379"
-    },
     "gp_section_583433927742456793": {
       "settings": {
         "checksum": "cfd2b324fd5a776bbeebafbd6043cdea598bcd3e9904712749c9154fe6474950_1_1_1_0_",
@@ -46,6 +39,12 @@
         "checksum": "359074a6a6cc4bd8ca1045720d8432a04707d68e7db73203942805cb675029bd_1_1_1_0_"
       },
       "type": "gp-section-583433930242261656"
+    },
+    "gp_section_583569645940769603": {
+      "settings": {
+        "checksum": "d5d4c280322fac8350d0843d2cea279e0d5f037835d7e1cc2a40e60ede16b729_1_1_1_0_"
+      },
+      "type": "gp-section-583569645940769603"
     }
   },
   "order": [
@@ -53,7 +52,7 @@
     "gp_section_583433929889940441",
     "gp_section_583433930242261656",
     "gp_section_583433928749089432",
-    "gp_global_section_583542503106413379-1",
+    "gp_section_583569645940769603",
     "gp_section_583433928363213785"
   ],
   "layout": "theme.gempages.blank"
