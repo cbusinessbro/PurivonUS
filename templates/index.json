@@ -93,6 +93,133 @@
         "background_gradient": ""
       }
     },
+    "image_link_blocks_gEnttB": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_GHc6xK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-fd8ccc7b-2f33-42a6-84a0-c1d9f7768f36.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_KJf3By": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-a187e34c-12c5-4a5f-85a7-668d61912293.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_JexME9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-a0749692-bd92-4815-b26a-b3a648133015.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bRYJpd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-b49e87a4-fe9f-4a9c-b4d9-42b7c058b360.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_8NARwJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_583252128068272984-e696accf-d6ae-4ea7-89fa-6060b05c4578.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_GHc6xK",
+        "item_KJf3By",
+        "item_JexME9",
+        "item_bRYJpd",
+        "item_8NARwJ"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_yqMJex": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_THDp46": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#39294a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_THDp46"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "testimonials_JNgYfQ": {
       "type": "testimonials",
       "blocks": {
@@ -157,6 +284,8 @@
   "order": [
     "slideshow_PMLgk3",
     "slideshow_imxcpg",
+    "image_link_blocks_gEnttB",
+    "media_with_text_yqMJex",
     "testimonials_JNgYfQ"
   ]
 }
