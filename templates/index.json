@@ -338,6 +338,41 @@
         "text_gradient": ""
       }
     },
+    "media_with_text_Lr7yUJ": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_cLKhgf": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Regain Strength, Comfort & Confidence",
+            "content": "<p>With <strong>PelviTone™</strong>, you can finally address pelvic floor weakness at the root. </p><p>By combining gentle muscle stimulation and soothing heat therapy, it helps reduce that heavy, dragging feeling, improves bladder control, and restores everyday comfort. </p><p>In just weeks, you’ll feel stronger, lighter, and more confident—without surgery or endless appointments.</p>",
+            "link_text": "GET 50% OFF TODAY ONLY",
+            "link_url": "shopify://products/the-pelvitone™-pelvic-floor-trainer",
+            "background": "#39294a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#39294a"
+          }
+        }
+      },
+      "block_order": [
+        "image_cLKhgf"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "gp_global_section_583548022894363459_Lw7YiM": {
       "type": "gp-global-section-583548022894363459",
       "name": "Tabs VS",
@@ -748,6 +783,7 @@
     "slideshow_aW7ajm",
     "media_with_text_LUHy6p",
     "scrolling_text_qGD3Ux",
+    "media_with_text_Lr7yUJ",
     "gp_global_section_583548022894363459_Lw7YiM",
     "media_with_text_yqMJex",
     "rich_text_g78B4n",
