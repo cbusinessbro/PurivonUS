@@ -723,6 +723,20 @@
             "title": "How many intensity levels does Pelvina™ have?",
             "content": "<p>With five adjustable intensity levels, you can customize the stimulation to match your pelvic strength and progress over time.</p><ul><li><strong>Level 1 (0-4 seconds contraction)</strong> – Gentle activation for beginners.</li></ul><p></p><ul><li><strong>Level 2 (5-15 seconds contraction)</strong> – Normal stimulation to improve endurance.<br/></li><li><strong>Level 3 (16-23 seconds contraction)</strong> – Stronger engagement for noticeable strengthening.<br/></li><li><strong>Level 4 (24-55 seconds contraction)</strong> – Excellent muscle training for enhanced control.</li></ul><p></p><ul><li><strong>Level 5 (60-120 seconds contraction)</strong> – Maximum intensity for deep muscle strengthening.</li></ul>"
           }
+        },
+        "item_CMP6Mr": {
+          "type": "item",
+          "settings": {
+            "title": "How long does the battery last?",
+            "content": "<p>One charge can last 2 weeks when used 2-3 times per day.</p>"
+          }
+        },
+        "item_UQaVwE": {
+          "type": "item",
+          "settings": {
+            "title": "How long is delivery?",
+            "content": "<p>The time from our international shipping center to the destination.</p><p>United Kingdom 5-7 business days</p><p>United States & Canada 7-10 working days</p><p>Australia & New Zealand 6-8 working days</p><p>Other International Countries 10-15 business days</p><p>All orders are processed and shipped from our warehouse.</p><p>Please allow additional time to process your order on public holidays and during the sales season.</p><p>We process orders between Monday and Friday.</p>"
+          }
         }
       },
       "block_order": [
@@ -736,7 +750,9 @@
         "item_DYERUr",
         "item_eewAqP",
         "item_YgV9kC",
-        "item_hhhanR"
+        "item_hhhanR",
+        "item_CMP6Mr",
+        "item_UQaVwE"
       ],
       "name": "FAQ",
       "settings": {
