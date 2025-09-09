@@ -316,6 +316,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_qGD3Ux": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Take Back Control of Your Body",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "gp_global_section_583548022894363459_Lw7YiM": {
       "type": "gp-global-section-583548022894363459",
       "name": "Tabs VS",
@@ -636,6 +652,7 @@
     "gp_global_section_583571033802408519_NxNTaN",
     "media_with_text_yqMJex",
     "media_with_text_LUHy6p",
+    "scrolling_text_qGD3Ux",
     "gp_global_section_583548022894363459_Lw7YiM",
     "rich_text_g78B4n",
     "image_link_blocks_y33een",
