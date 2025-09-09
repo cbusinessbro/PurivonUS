@@ -737,6 +737,13 @@
             "title": "How long is delivery?",
             "content": "<p>The time from our international shipping center to the destination.</p><p>United Kingdom 5-7 business days</p><p>United States & Canada 7-10 working days</p><p>Australia & New Zealand 6-8 working days</p><p>Other International Countries 10-15 business days</p><p>All orders are processed and shipped from our warehouse.</p><p>Please allow additional time to process your order on public holidays and during the sales season.</p><p>We process orders between Monday and Friday.</p>"
           }
+        },
+        "item_ecxchn": {
+          "type": "item",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "<p>If you don't get the results you want in 90 days or less - we don't want your money! We are confident that our products work and encourage you to try them and experience the full benefits. If you are not satisfied and wish to return the products, you can do so within our 90-day money back guarantee.</p><p>If you have purchased the extended warranty, we will immediately issue a replacement of the product even after 90 days.</p>"
+          }
         }
       },
       "block_order": [
@@ -752,7 +759,8 @@
         "item_YgV9kC",
         "item_hhhanR",
         "item_CMP6Mr",
-        "item_UQaVwE"
+        "item_UQaVwE",
+        "item_ecxchn"
       ],
       "name": "FAQ",
       "settings": {
