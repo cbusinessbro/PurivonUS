@@ -346,7 +346,7 @@
           "settings": {
             "image": "shopify://shop_images/gempages_583252128068272984-296cfd6e-ed20-4f0a-8ab7-8bbf3a27d2e4.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
