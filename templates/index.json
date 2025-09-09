@@ -244,42 +244,6 @@
         "gghvgNuQ50C_text": "<p>Strengthens the muscles that control urination.</p>"
       }
     },
-    "media_with_text_yqMJex": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_THDp46": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#39294a",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_THDp46"
-      ],
-      "disabled": true,
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "none"
-      }
-    },
     "slideshow_aW7ajm": {
       "type": "slideshow",
       "blocks": {
@@ -391,6 +355,41 @@
         "ggv4VvX276U_text": "<p>Cost-Effective Solution</p>",
         "gg2-IIXrqsW_text": "<p>Portable &amp; Discreet</p>",
         "ggdEj9kZJxS_text": "<p>Clinically Proven</p>"
+      }
+    },
+    "media_with_text_yqMJex": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_THDp46": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Try It for 90 Days, 100% Risk-Free",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#39294a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_THDp46"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
       }
     },
     "rich_text_g78B4n": {
@@ -744,11 +743,11 @@
     "gp_global_section_583570503877264195_7zx8jD",
     "gp_global_section_583570993939743463_wPjc6y",
     "gp_global_section_583571033802408519_NxNTaN",
-    "media_with_text_yqMJex",
     "slideshow_aW7ajm",
     "media_with_text_LUHy6p",
     "scrolling_text_qGD3Ux",
     "gp_global_section_583548022894363459_Lw7YiM",
+    "media_with_text_yqMJex",
     "rich_text_g78B4n",
     "image_link_blocks_y33een",
     "testimonials_JNgYfQ",
