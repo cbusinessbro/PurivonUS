@@ -9,42 +9,35 @@
  */
 {
   "sections": {
-    "gp_shopify_original_global_section_583542503106413379-6": {
+    "gp_shopify_original_global_section_583542503106413379-5": {
       "settings": {
         "checksum": "",
         "section_preload": "false"
       },
       "type": "gp-global-section-583542503106413379"
     },
-    "gp_shopify_original_global_section_583548112300147540-5": {
+    "gp_shopify_original_global_section_583548112300147540-4": {
       "settings": {
         "checksum": "",
         "section_preload": "false"
       },
       "type": "gp-global-section-583548112300147540"
     },
-    "gp_shopify_original_global_section_583570426936951636-1": {
-      "settings": {
-        "checksum": "",
-        "section_preload": "false"
-      },
-      "type": "gp-global-section-583570426936951636"
-    },
-    "gp_shopify_original_global_section_583570503877264195-2": {
+    "gp_shopify_original_global_section_583570503877264195-1": {
       "settings": {
         "checksum": "",
         "section_preload": "false"
       },
       "type": "gp-global-section-583570503877264195"
     },
-    "gp_shopify_original_global_section_583570993939743463-3": {
+    "gp_shopify_original_global_section_583570993939743463-2": {
       "settings": {
         "checksum": "",
         "section_preload": "false"
       },
       "type": "gp-global-section-583570993939743463"
     },
-    "gp_shopify_original_global_section_583571033802408519-4": {
+    "gp_shopify_original_global_section_583571033802408519-3": {
       "settings": {
         "checksum": "",
         "section_preload": "false"
@@ -141,16 +134,22 @@
         "checksum": ""
       },
       "type": "gp-section-583555491842491220"
+    },
+    "gp_shopify_original_section_583646311979418435": {
+      "settings": {
+        "checksum": ""
+      },
+      "type": "gp-section-583646311979418435"
     }
   },
   "order": [
     "gp_shopify_original_section_583257514779345752",
     "gp_shopify_original_section_583257647185134553",
     "gp_shopify_original_section_583258219204314073",
-    "gp_shopify_original_global_section_583570426936951636-1",
-    "gp_shopify_original_global_section_583570503877264195-2",
-    "gp_shopify_original_global_section_583570993939743463-3",
-    "gp_shopify_original_global_section_583571033802408519-4",
+    "gp_shopify_original_section_583646311979418435",
+    "gp_shopify_original_global_section_583570503877264195-1",
+    "gp_shopify_original_global_section_583570993939743463-2",
+    "gp_shopify_original_global_section_583571033802408519-3",
     "gp_shopify_original_section_583399237375493081",
     "gp_shopify_original_section_583402568156185240",
     "gp_shopify_original_section_583402567971635864",
@@ -162,8 +161,8 @@
     "gp_shopify_original_section_583555491842491220",
     "gp_shopify_original_section_583491051310810024",
     "gp_shopify_original_section_583497491849151192",
-    "gp_shopify_original_global_section_583548112300147540-5",
+    "gp_shopify_original_global_section_583548112300147540-4",
     "gp_shopify_original_section_583401818080412633",
-    "gp_shopify_original_global_section_583542503106413379-6"
+    "gp_shopify_original_global_section_583542503106413379-5"
   ]
 }
