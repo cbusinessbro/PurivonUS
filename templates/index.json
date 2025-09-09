@@ -650,29 +650,69 @@
         "item_iwdzpN": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "How does Pelvina™ work?",
+            "content": "<p>Pelvina™ uses gentle muscle stimulation and heat therapy to enhance your mind-muscle connection, making it easier to engage and strengthen your pelvic floor muscles. This helps improve bladder control, reduce leaks, and restore muscle function—while ensuring you’re doing Kegels correctly.</p>"
           }
         },
         "item_yjwbLA": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Am I too old for this to work?",
+            "content": "<p>Absolutely not! Your pelvic floor can be strengthened at any age. Women in their 60s, 70s, 80s and even 90s have successfully regained bladder control using Pelvina™.</p>"
           }
         },
         "item_LiTF6J": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Will this help with my type of incontinence?",
+            "content": "<p>Yes! Pelvina™ is designed to help with stress incontinence (leaks from coughing, sneezing, or laughing), urge incontinence (sudden, uncontrollable urges), and mixed incontinence (a combination of both).</p>"
+          }
+        },
+        "item_t9Ynf3": {
+          "type": "item",
+          "settings": {
+            "title": "How long does it take to see results?",
+            "content": "<p>Many women notice improvements within a 6-8 weeks, but for best results, we recommend using Pelvina™ consistently for at least 8-12 weeks.</p>"
+          }
+        },
+        "item_4qHxNm": {
+          "type": "item",
+          "settings": {
+            "title": "How often should I use Pelvina™?",
+            "content": "<p>For best results, we recommend using it 2-3 times a day for 10-15 minutes while sitting and relaxing. Our bundle includes a plan for you to follow.</p>"
+          }
+        },
+        "item_7zVy3p": {
+          "type": "item",
+          "settings": {
+            "title": "Do I still need to engage my pelvic floor while using it?",
+            "content": "<p>The Pelvina™ helps activate the right muscles, making pelvic floor exercises easier and more effective.</p><p>You’ll still need to engage your muscles, but the device ensures you're targeting them correctly without guesswork.</p>"
+          }
+        },
+        "item_fQDEzp": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean it?",
+            "content": "<p>To clean Pelvina™, simply wipe it down with a damp cloth and a mild, non-abrasive soap after each use.</p><p>Avoid submerging it in water or using harsh cleaning agents. For best hygiene, let it air dry before storing it in the included travel pouch.</p>"
+          }
+        },
+        "item_DYERUr": {
+          "type": "item",
+          "settings": {
+            "title": "What size is Pelvina™?",
+            "content": "<p>The Pelvina™ measures 21cm x 14.5cm, making it compact, lightweight, and ergonomically designed for comfortable use while sitting. </p>"
           }
         }
       },
       "block_order": [
         "item_iwdzpN",
         "item_yjwbLA",
-        "item_LiTF6J"
+        "item_LiTF6J",
+        "item_t9Ynf3",
+        "item_4qHxNm",
+        "item_7zVy3p",
+        "item_fQDEzp",
+        "item_DYERUr"
       ],
       "name": "FAQ",
       "settings": {
