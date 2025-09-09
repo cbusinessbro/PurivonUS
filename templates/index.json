@@ -702,6 +702,20 @@
             "title": "What size is Pelvina™?",
             "content": "<p>The Pelvina™ measures 21cm x 14.5cm, making it compact, lightweight, and ergonomically designed for comfortable use while sitting. </p>"
           }
+        },
+        "item_eewAqP": {
+          "type": "item",
+          "settings": {
+            "title": "Can The Pelvina™ help with prolapse?",
+            "content": "<p>Yes — Pelvina™ can support mild to moderate prolapse by strengthening the pelvic floor muscles that help hold your pelvic organs in place. While it’s not a cure for prolapse, many women use it as part of a broader recovery plan to improve muscle tone, reduce symptoms, and prevent the condition from worsening.</p>"
+          }
+        },
+        "item_YgV9kC": {
+          "type": "item",
+          "settings": {
+            "title": "Does The Pelvina™ work for fecal incontinence?",
+            "content": "<p>Yes, Pelvina™ can help with fecal incontinence by targeting the same pelvic floor muscles that support the rectum and anus. By guiding you through proper pelvic floor contractions using gentle stimulation, it helps improve control over bowel movements—especially if you’ve struggled to do Kegels on your own.</p>"
+          }
         }
       },
       "block_order": [
@@ -712,7 +726,9 @@
         "item_4qHxNm",
         "item_7zVy3p",
         "item_fQDEzp",
-        "item_DYERUr"
+        "item_DYERUr",
+        "item_eewAqP",
+        "item_YgV9kC"
       ],
       "name": "FAQ",
       "settings": {
