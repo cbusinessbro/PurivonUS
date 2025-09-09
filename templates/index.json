@@ -716,6 +716,13 @@
             "title": "Does The Pelvina™ work for fecal incontinence?",
             "content": "<p>Yes, Pelvina™ can help with fecal incontinence by targeting the same pelvic floor muscles that support the rectum and anus. By guiding you through proper pelvic floor contractions using gentle stimulation, it helps improve control over bowel movements—especially if you’ve struggled to do Kegels on your own.</p>"
           }
+        },
+        "item_hhhanR": {
+          "type": "item",
+          "settings": {
+            "title": "How many intensity levels does Pelvina™ have?",
+            "content": "<p>With five adjustable intensity levels, you can customize the stimulation to match your pelvic strength and progress over time.</p><ul><li><strong>Level 1 (0-4 seconds contraction)</strong> – Gentle activation for beginners.</li></ul><p></p><ul><li><strong>Level 2 (5-15 seconds contraction)</strong> – Normal stimulation to improve endurance.<br/></li><li><strong>Level 3 (16-23 seconds contraction)</strong> – Stronger engagement for noticeable strengthening.<br/></li><li><strong>Level 4 (24-55 seconds contraction)</strong> – Excellent muscle training for enhanced control.</li></ul><p></p><ul><li><strong>Level 5 (60-120 seconds contraction)</strong> – Maximum intensity for deep muscle strengthening.</li></ul>"
+          }
         }
       },
       "block_order": [
@@ -728,7 +735,8 @@
         "item_fQDEzp",
         "item_DYERUr",
         "item_eewAqP",
-        "item_YgV9kC"
+        "item_YgV9kC",
+        "item_hhhanR"
       ],
       "name": "FAQ",
       "settings": {
