@@ -373,14 +373,14 @@
             "subheading": "",
             "title": "Try It for 90 Days, 100% Risk-Free",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "GET 50% OFF TODAY ONLY",
+            "link_url": "shopify://products/the-pelvitone™-pelvic-floor-trainer",
             "background": "#39294a",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#39294a"
           }
         }
       },
