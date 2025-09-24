@@ -47,13 +47,18 @@
     "gp_shopify_original_section_583257514779345752": {
       "settings": {
         "checksum": "",
+        "ggureebGtv1_text": "<span style=\"font-size:14px;\">SALE: FREE Shipping + 50% OFF Today ONLY!</span>",
         "section_preload": "true"
       },
       "type": "gp-section-583257514779345752"
     },
     "gp_shopify_original_section_583257647185134553": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg2BErJDg6y_label": "<p>Get 50% off today only</p>",
+        "ggIEmLYyGaL_text": "Trusted by 3,000+ Women",
+        "ggMjZ48N50k_text": "<strong>Ease That Heavy Feeling “Down There” With </strong><span style=\"color:#3A294A;\"><strong>The Pelvina™&nbsp;Pelvic Floor Trainer</strong></span>",
+        "ggUy_8dhG55_text": "<p>No scary devices or hard-to-do exercises — just&nbsp;</p><p>real relief from pelvic pressure.</p>"
       },
       "type": "gp-section-583257647185134553"
     },
@@ -65,79 +70,156 @@
     },
     "gp_shopify_original_section_583399237375493081": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggNkPPWBzbe_text": "You're Not Too Old to Fix This —&nbsp;And Here’s Why",
+        "gg_AJbIyRpP_text": "<p>Many women think prolapse can’t be reversed—but that’s not true.</p><p>&nbsp;</p><p>Your pelvic floor is a muscle, and like any muscle, it can be strengthened at any age. Studies show women well into their 90s can reduce prolapse pressure with proper training.</p><p>&nbsp;</p><p>The problem? Most women do the exercises wrong, use the wrong muscles, or give up too soon. Without consistent, correct training, the pressure only gets worse.</p><p>&nbsp;</p><p><strong>The longer you wait, the harder it gets.</strong></p><p>The good news? You can still take back control —starting now.</p>"
       },
       "type": "gp-section-583399237375493081"
     },
     "gp_shopify_original_section_583401818080412633": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gKoSfhSbAnn_text": "<p>If you don't get the results you want in 90 days or less - we don't want your money!&nbsp;</p><p>&nbsp;</p><p>We are confident that our products work and encourage you to try them and experience the full benefits. If you are not satisfied and wish to return the products, you can do so within our 90-day money back guarantee.</p><p>&nbsp;</p><p>If you have purchased the extended warranty, we will immediately issue a replacement of the product even after 90 days.</p>",
+        "gWnF4185-3G_text": "<p>The time from our international shipping center to the destination.</p><p>&nbsp;</p><p>United Kingdom 5-7 business days</p><p>United States &amp; Canada 7-10 working days</p><p>Australia &amp; New Zealand 6-8 working days</p><p>Other International Countries 10-15 business days</p><p>&nbsp;</p><p>All orders are processed and shipped from our warehouse.</p><p>&nbsp;</p><p>Please allow additional time to process your order on public holidays and during the sales season.</p><p>&nbsp;</p><p>We process orders between Monday and Friday.</p><p>&nbsp;</p>",
+        "ggJ95IVOvLk_text": "<p>The Pelvina™ is designed to support all common types of mild to moderate prolapse.</p><p>&nbsp;</p><p>This includes <strong>bladder (cystocele), bowel (rectocele), uterine, and vaginal wall prolapse etc.</strong></p><p>&nbsp;</p><p>It works by strengthening the muscles that hold your organs in place.</p><p>&nbsp;</p><p>When your pelvic floor gets stronger, it can better support your bladder, uterus, and bowel—so you feel <strong>less pressure and more control</strong>.</p>",
+        "ggKB9mEHx4V_text": "<p>For best results, we recommend using it 2-3 times a day for 10-15 minutes while sitting and relaxing. Our bundle includes a plan for you to follow.</p>",
+        "ggMpgfquPBw_text": "<p>Many women notice improvements within a 6-8 weeks, but for best results, we recommend using Pelvina™ consistently for at least 8-12 weeks.</p><p>&nbsp;</p>",
+        "ggSyolw46ZY_text": "Frequently Asked Questions",
+        "gggVBluNpes_text": "<p>Pelvina™ uses gentle muscle stimulation and heat therapy to enhance your mind-muscle connection, making it easier to engage and strengthen your pelvic floor muscles.</p><p>&nbsp;</p><p>This helps improve bladder control, reduce pressure, bulging and restore muscle function—while ensuring you’re doing Kegels correctly.</p>",
+        "ggo6a7YFWqc_childItem_0": "<p>How does Pelvina™ work?</p>",
+        "ggo6a7YFWqc_childItem_1": "<p>Am I too old for this to work?</p>",
+        "ggo6a7YFWqc_childItem_2": "<p>Will this help with my type of prolapse?</p>",
+        "ggo6a7YFWqc_childItem_3": "<p>How long does it take to see results?</p>",
+        "ggo6a7YFWqc_childItem_4": "<p>How often should I use Pelvina™?</p>",
+        "ggo6a7YFWqc_childItem_5": "<p>At vero eos et accusamus et iusto?</p>",
+        "ggo6a7YFWqc_childItem_6": "<p>How many intensity levels does Pelvina™ have?</p>",
+        "ggo6a7YFWqc_childItem_7": "<p>How long does the battery last?</p>",
+        "ggo6a7YFWqc_childItem_8": "<p>How long is delivery?</p>",
+        "ggo6a7YFWqc_childItem_9": "<p>What is your return policy?</p>",
+        "ggrIfZR1Bey_text": "<p>The PelviTone™ helps activate the right muscles, making pelvic floor exercises easier and more effective.</p><p>&nbsp;</p><p>You’ll still need to engage your muscles, but the device ensures you're targeting them correctly without guesswork.</p>",
+        "ggwg5gh-3EB_text": "<p>Absolutely not! Your pelvic floor can be strengthened at any age. Women in their 60s, 70s, 80s and even 90s have successfully regained bladder control using Pelvina™.</p>",
+        "goDgiePzZ8m_text": "<p>With five adjustable intensity levels, you can customize the stimulation to match your pelvic strength and progress over time.</p><p>&nbsp;</p><ul><li><strong>Level 1 (0-4 seconds contraction)</strong> – Gentle activation for beginners.</li></ul><p>&nbsp;</p><ul><li><strong>Level 2 (5-15 seconds contraction)</strong> – Normal stimulation to improve endurance.</li></ul><p>&nbsp;</p><ul><li><strong>Level 3 (16-23 seconds contraction)</strong> – Stronger engagement for noticeable strengthening.</li></ul><p>&nbsp;</p><ul><li><strong>Level 4 (24-55 seconds contraction)</strong> – Excellent muscle training for enhanced control.</li></ul><p>&nbsp;</p><ul><li><strong>Level 5 (60-120 seconds contraction)</strong> – Maximum intensity for deep muscle strengthening.</li></ul>",
+        "gtwGlpmVG6B_text": "<p>One charge can last 2 weeks when used 2-3 times per day.</p>"
       },
       "type": "gp-section-583401818080412633"
     },
     "gp_shopify_original_section_583402567971635864": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggCUZJujzGq_text": "<p>Pelvina™ is built on proven pelvic floor therapy and muscle activation research.</p><p>&nbsp;</p><p>Each device comes with a <strong>free Kegel eBook and video course</strong>, designed by specialists to help you stay consistent, track your progress, and maximize results.</p><p>&nbsp;</p><p>For less than the cost of pads or pricey treatments, you can restore confidence with a safe, effective <strong>at-home solution</strong>.</p>",
+        "ggmHb0_6iMf_text": "Created by Women’s&nbsp;<br>Health Experts"
       },
       "type": "gp-section-583402567971635864"
     },
     "gp_shopify_original_section_583402568122631000": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggPIWftqAzf_label": "<p>Get 50% off today only</p>",
+        "ggjB-f0_NHa_text": "The Longer You Wait, the Harder It Gets",
+        "ggoJcOHQIKA_text": "<p>Many women think prolapse can’t be reversed—but that’s not true.</p><p>&nbsp;</p><p>Your pelvic floor is a muscle, and like any muscle, it can be strengthened at any age. Studies show women well into their 90s can reduce prolapse pressure with proper training.</p><p>&nbsp;</p><p>The problem? Most women do the exercises wrong, use the wrong muscles, or give up too soon. Without consistent, correct training, the pressure only gets worse.</p><p>&nbsp;</p><p>The longer you wait, the harder it gets.</p><p>The good news? You can still take back control —starting now.</p>"
       },
       "type": "gp-section-583402568122631000"
     },
     "gp_shopify_original_section_583402568156185240": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggrXi2-LGCu_text": "<p>The <strong>Pelvina™</strong> helps <i>relieve pelvic floor pressure</i> by guiding your muscles to contract the right way.</p><p>&nbsp;</p><p>Using gentle <strong>muscle stimulation</strong>, it activates and strengthens your pelvic floor—reducing that heavy, dragging sensation and giving your organs better support.</p><p>&nbsp;</p><p>It also improves your <strong>mind-muscle connection</strong>, making Kegels easier and more effective.</p><p>With added <strong>soothing heat therapy</strong>, circulation improves, helping your muscles relax and recover faster.</p><p>&nbsp;</p><p>Designed for <i>all body types</i>, Pelvina™ features <strong>5 adjustable timer settings</strong> to fit your routine.</p><p>&nbsp;</p><p>With consistent use—just <i>3 sessions per day</i>—most women see noticeable results in <strong>6–8 weeks</strong>.</p>",
+        "ggzaAYi5DDm_text": "Introducing: The PelviTone™ Pelvic Floor Trainer"
       },
       "type": "gp-section-583402568156185240"
     },
     "gp_shopify_original_section_583408382535271064": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg8T-6zpsw7_text": "<p>Tracy C.</p>",
+        "ggNMSvSoXk4_text": "<p>\"I honestly thought I’d have to live with that heavy, sinking feeling forever—nothing helped. 😞 The final straw was at my granddaughter’s birthday party… I felt <strong>so much pressure down</strong> there just from standing, I had to sit the whole time. I was embarrassed and left early in tears. 💔 Then I found the Pelvina, and WOW—what a change. That dragging <strong>feeling is finally fading.</strong> I feel lifted, supported, and like myself again. I just wish I’d found this sooner!\"</p>",
+        "ggZ8VGAUOw6_text": "<p>\"For YEARS, I felt this deep pressure in my pelvis, especially at night. 😩 Getting up and down just made it worse. One night I got up too fast, tripped in the dark, and <strong>fractured my wrist.</strong> That was my wake-up call. After eight weeks with Pelvina, the pressure has eased a lot—and I can sleep through the night without discomfort. <strong>It’s so simple to use</strong>—just sit, turn it on, and let it do the work while I relax.\"</p>",
+        "ggjSsFutB06_text": "<p>\"After my second baby, <strong>I started feeling a bulge </strong>every time I stood too long or walked too far. 😞 I stopped going out with friends and avoided car rides. On a family trip, I felt like something was falling out during the flight—<strong>I had to sit awkwardly the whole time.</strong> That was it for me. I started using Pelvina nine weeks ago and OMG—it actually works!! I just did a two-hour shopping trip with no pressure, no bulge, and no fear. I feel like I have my freedom back.\"</p>",
+        "ggr7ja9d0Sq_text": "<p>Kate K.</p>",
+        "ggtvut-kcJO_text": "<p>Maggie W.</p>"
       },
       "type": "gp-section-583408382535271064"
     },
     "gp_shopify_original_section_583408508800599001": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggzAMd4ceex_text": "Hear It From Our Customers"
       },
       "type": "gp-section-583408508800599001"
     },
     "gp_shopify_original_section_583491051310810024": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg-mN4JcwqL_text": "<p>If you're not satisfied, we're not either. We'll happily refund you for any Artuvate product if you're not completely happy with your purchase after a full 90 days.</p>",
+        "gg-xiiFJrtY_text": "<p>All Pelvina product are designed and manufactured under world-class quality management systems.<br><br>We profice a 1&nbsp;Year Warranty to show our commitment to our high-quality standards and for peace of mind</p>",
+        "gg4l7ENwdp1_text": "<p><strong>A complete</strong> set of The Pelvina™ Trainer Bundle</p>",
+        "gg7rLnszH1T_text": "<p><span style=\"background-color:rgb(245,245,245);color:rgb(49,52,56);font-size:14px;\">All orders are processed within 24-48 hours.</span><br><br><span style=\"background-color:rgb(245,245,245);color:rgb(49,52,56);font-size:14px;\">Orders to </span><strong>United States, Australia, Canada, United Kingdom, New Zealand</strong><span style=\"background-color:rgb(245,245,245);color:rgb(49,52,56);font-size:14px;\"> can be expected to arrive within 6-10 business days.</span><br><br><span style=\"background-color:rgb(245,245,245);color:rgb(49,52,56);font-size:14px;\">International orders can be expected to arrive within 8-12&nbsp;business days.</span><br>&nbsp;</p>",
+        "gg8A3t8GUxc_text": "<p>Designed with advanced heat therapy and targeted muscle stimulation, the Pelvina™ Trainer makes reducing prolapse pressure easier.</p>",
+        "ggNeeAjq9Hq_text": "<p>90-Day Money Back Guarantee</p>",
+        "ggYl6oo_g7a_displayContent": "{percent_discount} off",
+        "ggZr5ACwq68_label": "BUY NOW",
+        "ggZr5ACwq68_outOfStockLabel": "Out of stock",
+        "ggZr5ACwq68_unavailableLabel": "Unavailable",
+        "gg_TSwxb0H7_text": "TODAY ONLY SPECIAL OFFER",
+        "ggglW_yy-hq_childItem_0": "<p>Warranty</p>",
+        "ggglW_yy-hq_childItem_1": "<p>Shipping</p>",
+        "ggglW_yy-hq_childItem_2": "<p>90-Day Free Trial</p>",
+        "ggjJQHJ7YV9_text": "<p>Free &amp; tracked shipping worldwide</p>",
+        "ggnQ7oEPwgU_text": "Trusted by 3,000+ Women"
       },
       "type": "gp-section-583491051310810024"
     },
     "gp_shopify_original_section_583493328515892136": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "ggHwwM2Z8e4_label": "<p>Get 50% off today only</p>",
+        "ggR9DX4EplH_text": "<p>Here’s the deal: Pelvina believes in this product so much that they<strong> don’t want you to spend a dime until you are 100% certain that it works for you.</strong></p><p>&nbsp;</p><p>That’s why they are offering a <strong>90-day “Results or Refund” Guarantee.</strong></p><p>&nbsp;</p><p>Simply, get yourself The Pelvina™ today, use it for 90 days, and then make your decision based on the results.</p><p>&nbsp;</p><p><strong><u>If you are not absolutely thrilled with the results, they will issue you an immediate refund.</u></strong></p><p>&nbsp;</p><p>In other words, you are only paying if it turns out to be a complete lifesaver.</p>",
+        "ggpI-xPK2_p_text": "Try It for 90 Days, 100% Risk-Free"
       },
       "type": "gp-section-583493328515892136"
     },
     "gp_shopify_original_section_583505318252643047": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "g8n0wCil0L3_text": "<p>High Quality Gift Box</p>",
+        "ggElZHF__VN_text": "<p>Instruction Guide &amp; Quick Start Manual</p>",
+        "ggj1Fou9aK0_text": "<p>USB Charger</p>",
+        "ggk1YX5YUfz_text": "What's In The Box?",
+        "ggwq8mFwJy8_text": "<p>The Pelvina™ Pelvic Floor Trainer <s>(RRP: $339.99)</s></p>",
+        "gktngqM4hi6_text": "<p>Travel &amp; Storage Pouch <s>(RRP: $4.99)</s></p>",
+        "gvUOFdlYnTk_text": "<p>90 Day Habit Tracker</p>"
       },
       "type": "gp-section-583505318252643047"
     },
     "gp_shopify_original_section_583555491842491220": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg4W72CkojW_text": "<p>Pelvina</p>",
+        "gg5GgNUOx7v_text": "<p>Medication</p>",
+        "ggA2nTgh_d3_text": "<p>Guided Strengthening</p>",
+        "ggCWdX6YX3T_text": "<p>Cost-Effective Solution</p>",
+        "ggLLxylSL-I_text": "<p>No Side Effects</p>",
+        "ggQKoThr07-_text": "The Pelvina™ Strengthens Your Pelvic Floor",
+        "ggYWbQ_RrtG_text": "<p>Inserts</p>",
+        "ggbjXqaDapa_text": "<p>Clinically Proven</p>",
+        "ggqVCoBEjy0_text": "<p>Non-Invasive Solution</p>",
+        "ggsCaf6awuc_text": "<p>Heat Therapy Boost</p>",
+        "ggxHrAv059V_text": "<p>Portable &amp; Discreet</p>",
+        "ggyWC78uUXA_text": "<p>What Makes The Pelvina™ Special?</p>"
       },
       "type": "gp-section-583555491842491220"
     },
     "gp_shopify_original_section_583646311979418435": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg8EZWD_yXy_text": "3,000+ Happy Women"
       },
       "type": "gp-section-583646311979418435"
     },
     "gp_shopify_original_section_583647635097781076": {
       "settings": {
-        "checksum": ""
+        "checksum": "",
+        "gg_9lVZBCVe_text": "3,000+ Happy Women"
       },
       "type": "gp-section-583647635097781076"
     }
