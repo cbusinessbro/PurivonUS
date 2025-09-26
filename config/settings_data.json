@@ -35,6 +35,7 @@
     "text_font": "montserrat_n4",
     "text_font_size_mobile": 13,
     "text_font_size_desktop": 13,
+    "currency_code_enabled": true,
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
